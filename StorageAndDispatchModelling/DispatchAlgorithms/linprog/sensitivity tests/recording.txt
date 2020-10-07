@@ -1,0 +1,23 @@
+Monthly recordings for yearly analysis. The maximum discharge 
+rate for each iteration in the analysis is calculated using 
+interpolation of the temperature-dependent data points provided.
+
+it is important to note that for any temperature below 5 Celsius, 
+the maximum discharge power is set at 0 kW -- the PCM cannot 
+discharge.
+
+Start date, End date, Profit GBP, Charges, Discharges, Trades
+['02/01/2018', '01/02/2018', 55.68, 307, 987, 647.0]
+['02/02/2018', '01/03/2018', 13.24, 741, 433, 587.0]
+['02/03/2018', '01/04/2018', 67.66, 400, 999, 699.5]
+['02/04/2018', '01/05/2018', 238.55, 271, 1102, 686.5]
+['02/05/2018', '01/06/2018', 432.95, 372, 925, 648.5]
+['02/06/2018', '01/07/2018', 608.53, 399, 771, 585.0]
+['02/07/2018', '01/08/2018', 861.29, 457, 695, 576.0]
+['02/08/2018', '01/09/2018', 629.92, 414, 791, 602.5]
+['02/09/2018', '01/10/2018', 448.11, 359, 907, 633.0]
+['02/10/2018', '01/11/2018', 278.35, 308, 1044, 676.0]
+['02/11/2018', '01/12/2018', 119.13, 275, 1089, 682.0]
+['02/12/2018', '01/01/2019', 93.39, 315, 1081, 698.0]
+
+total profit = 3846.8 gbp

@@ -1,0 +1,96 @@
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 20 :
+Total profit = 358.1 GBP
+Total charging events = 2159
+Total discharging events = 2159
+Total trades = 2159
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 70 :
+Total profit = 1213.4 GBP
+Total charging events = 3333
+Total discharging events = 3356
+Total trades = 3344
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 120 :
+Total profit = 2000.27 GBP
+Total charging events = 4051
+Total discharging events = 4051
+Total trades = 4051
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 170 :
+Total profit = 2738.19 GBP
+Total charging events = 5287
+Total discharging events = 5286
+Total trades = 5286
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 220 :
+Total profit = 3438.28 GBP
+Total charging events = 5808
+Total discharging events = 5858
+Total trades = 5833
+['PCM Max Capacity in kWh', 'Total profit in GBP', 'Total charging events', 'Total discharging events'][270, 3827.36, 6338, 6363]For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 270 :
+Total profit = 3827.36 GBP
+Total charging events = 6338
+Total discharging events = 6363
+Total trades = 6350
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 320 :
+Total profit = 4002.61 GBP
+Total charging events = 6699
+Total discharging events = 6699
+Total trades = 6699
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 370 :
+Total profit = 4140.95 GBP
+Total charging events = 7439
+Total discharging events = 7437
+Total trades = 7438
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 420 :
+Total profit = 4254.72 GBP
+Total charging events = 7698
+Total discharging events = 7648
+Total trades = 7673
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 470 :
+Total profit = 4344.6 GBP
+Total charging events = 7880
+Total discharging events = 7845
+Total trades = 7862
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 520 :
+Total profit = 4411.94 GBP
+Total charging events = 7936
+Total discharging events = 7936
+Total trades = 7936
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 570 :
+Total profit = 4461.49 GBP
+Total charging events = 8138
+Total discharging events = 8110
+Total trades = 8124
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 620 :
+Total profit = 4488.58 GBP
+Total charging events = 8153
+Total discharging events = 8151
+Total trades = 8152
+
+For a period from 15/07/2018 to 15/07/2019
+with max PCM capacity 670 :
+Total profit = 4501.85 GBP
+Total charging events = 8171
+Total discharging events = 8162
+Total trades = 8166

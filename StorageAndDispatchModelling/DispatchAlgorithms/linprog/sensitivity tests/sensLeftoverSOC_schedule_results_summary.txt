@@ -1,0 +1,8 @@
+For a period from 15/07/2018 to 16/07/2018with transferSOC=True
+with max PCM capacity 500 :
+Total profit = 51.81 GBP
+Total charging events = 42
+Total discharging events = 43
+Total trades = 42
+
+

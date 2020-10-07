@@ -1,0 +1,25 @@
+DONE For the competitor analysis:
+    create a new table that populates with a tick or no-tick for each company across some
+    services
+
+DONE 1) do the cost analysis to find the required PCM capacity for 4-year turnover
+    go back to Michael's email to find the info for the cost analysis
+
+DONE 2) run yearly analysis with the proper 48-timesteps SOC carry-over constraint
+    -- can do a sensitivity analysis on the influence of carry-over period (instead of 48 tsteps,
+    maybe monthly)
+    !! Cannot run sensitivity analysis on bunches bigger than 48, gets too complicated
+    because bunch size must be divisor of s
+
+DONE 3) do Henry's temperature-map visualisations for the schedule
+    and for yearly
+
+DONE 2a) implement the self-discharge
+    remember to only put the extra term in the lower bound, the upper bound is the same
+    
+4) document all I have done
+
+5) make a quick Particle Swarm Optimization script to solve the same problem, just to get it 
+    up and running, and also to have a couple different methods to follow
+ 
+ 

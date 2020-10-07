@@ -1,0 +1,64 @@
+For a period from 15/07/2018 to 15/12/2018with transferSOC=TruekWh
+with max PCM capacity 500 kWh:
+Total profit = 2540.7 GBP
+Total charging events = 3188
+Total discharging events = 3182
+Total trades = 3185
+
+
+For a period from 15/07/2018 to 15/10/2018
+with max PCM capacity 300 kWh:
+Total profit = 1686.18 GBP
+Total charging events = 1588
+Total discharging events = 1599
+Total trades = 1593
+
+
+For a period from 15/07/2018 to 15/10/2018
+with max PCM capacity 300 kWh:
+Total profit = 1676.51 GBP
+Total charging events = 1651
+Total discharging events = 1680
+Total trades = 1665
+
+
+For a period from 15/07/2018 to 15/10/2018
+with max PCM capacity 300 kWh:
+Total profit = 1686.18 GBP
+Total charging events = 1586
+Total discharging events = 1596
+Total trades = 1591
+
+
+For a period from 15/07/2018 to 15/10/2018
+with max PCM capacity 300 kWh:
+Total profit = 1686.22 GBP
+Total charging events = 1591
+Total discharging events = 1603
+Total trades = 1597
+
+
+For a period from 15/07/2018 to 15/10/2018
+with max PCM capacity 300 kWh:
+Total profit = 1686.23 GBP
+Total charging events = 1591
+Total discharging events = 1602
+Total trades = 1596
+
+
+For a period from 15/07/2018 to 15/10/2018
+with max PCM capacity 300 kWh:
+Total profit = 1686.23 GBP
+Total charging events = 1591
+Total discharging events = 1602
+Total trades = 1596
+
+
+For a period from 15/07/2018 to 15/10/2018
+with max PCM capacity 300 kWh:
+Total profit = 1686.23 GBP
+Total charging events = 1591
+Total discharging events = 1602
+Total trades = 1596
+
+

@@ -1,0 +1,112 @@
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 20 kWh:
+Total profit = 399.56 GBP
+Total charging events = 2828
+Total discharging events = 2828
+Total trades = 2828
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 70 kWh:
+Total profit = 1331.29 GBP
+Total charging events = 3900
+Total discharging events = 3888
+Total trades = 3894
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 120 kWh:
+Total profit = 2164.16 GBP
+Total charging events = 4402
+Total discharging events = 4402
+Total trades = 4402
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 170 kWh:
+Total profit = 2926.5 GBP
+Total charging events = 5302
+Total discharging events = 5302
+Total trades = 5302
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 220 kWh:
+Total profit = 3633.19 GBP
+Total charging events = 5621
+Total discharging events = 5688
+Total trades = 5654
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 270 kWh:
+Total profit = 4048.07 GBP
+Total charging events = 5980
+Total discharging events = 5975
+Total trades = 5977
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 320 kWh:
+Total profit = 4257.77 GBP
+Total charging events = 6219
+Total discharging events = 6219
+Total trades = 6219
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 370 kWh:
+Total profit = 4425.46 GBP
+Total charging events = 6794
+Total discharging events = 6777
+Total trades = 6785
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 420 kWh:
+Total profit = 4564.59 GBP
+Total charging events = 7057
+Total discharging events = 7009
+Total trades = 7033
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 470 kWh:
+Total profit = 4676.18 GBP
+Total charging events = 7240
+Total discharging events = 7236
+Total trades = 7238
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 520 kWh:
+Total profit = 4764.96 GBP
+Total charging events = 7366
+Total discharging events = 7366
+Total trades = 7366
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 570 kWh:
+Total profit = 4831.99 GBP
+Total charging events = 7767
+Total discharging events = 7696
+Total trades = 7731
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 620 kWh:
+Total profit = 4880.27 GBP
+Total charging events = 7819
+Total discharging events = 7843
+Total trades = 7831
+
+
+For a period from 15/07/2018 to 15/07/2019with transferSOC=FalsekWh
+with max PCM capacity 670 kWh:
+Total profit = 4912.95 GBP
+Total charging events = 7943
+Total discharging events = 7865
+Total trades = 7904
+
+
