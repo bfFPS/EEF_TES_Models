@@ -1,5 +1,5 @@
-# EEF_TES
-Contains all models and any modifications used in the EEF TES (PCM) project.
+# WEVC_MFC
+Contains all models and any modifications used in the WEVC MFC (Wireless 2) project.
 
 Folder structure:
 * AllocationAndChargeModelling
